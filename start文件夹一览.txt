@@ -1,6 +1,6 @@
-ebReg ¹ÜÀíÄÚ´æµÄÄ£¿é
-ebDaemon ¹ÜÀí´íÎóµÄÄ£¿é
-Objs ¶¨ÒåÁËËùÓÐ¶ÔÏóµÄ¸¸ÀàObject,±äÁ¿µÄ¸¸Ààvar,»¹ÓÐÁ½¸öÖµ£ºnullºÍNaN
-ebVar ¶¨ÒåÁË³£ÓÃµÄÊý¾ÝÀàÐÍ
-EvalLexer evalº¯Êý½âÊÍÆ÷
-Eval ¶¨Òåevalº¯Êý
+ebReg ç®¡ç†å†…å­˜çš„æ¨¡å—
+ebDaemon ç®¡ç†é”™è¯¯å’Œäº‹ä»¶çš„æ¨¡å—
+Objs å®šä¹‰äº†æ‰€æœ‰å¯¹è±¡çš„çˆ¶ç±»Object,å˜é‡çš„çˆ¶ç±»var,è¿˜æœ‰ä¸¤ä¸ªå€¼ï¼šnullå’ŒNaN
+ebVar å®šä¹‰äº†å¸¸ç”¨çš„æ•°æ®ç±»åž‹
+EvalLexer evalå‡½æ•°è§£é‡Šå™¨
+Eval å®šä¹‰evalå‡½æ•°
